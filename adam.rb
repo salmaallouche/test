@@ -7,3 +7,6 @@ class ApplicationController < ActionController::Base
   helper_method :allowed_segments
   helper_method :current_segment
   helper_method :current_cart
+
+
+  hi doudou habibi
